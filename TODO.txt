@@ -1,0 +1,9 @@
+﻿Crear controlador con angular
+Actualizar la lista para que no sea estatica
+Agregar check list a la lista
+Poder insertar con el boton add
+Poder contar la cantidad de pendientes
+Poder cambiar el color segun la cantidad de pendientes 
+Agregar boton de eliminar
+Agregar boton de editar
+Agregar boton para seleccionar todo o no
